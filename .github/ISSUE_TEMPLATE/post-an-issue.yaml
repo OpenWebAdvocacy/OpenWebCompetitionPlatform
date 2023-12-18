@@ -1,0 +1,31 @@
+name: Post an Issue
+description: Request a change to improve competition
+title: "&nbsp;"
+labels: ["Status: Triage"]
+body:
+- type: textarea
+  attributes:
+    label: Description
+    description: A more detailed description of the request - describe your use case, current blockers etc. If necessary you can link to supplementary documentation but make sure this section contains sufficient detail that readers can clearly understand the issue without referring to the external documentation.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Scope
+    description: Please provide an explanation as to why this issue is within scope. Specifically why is this change necessary to allow the Web, Browsers or Web Apps to compete fairly and effectively.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Outcome
+    description: What do you desire to see implemented to resolve your request. Where there are multiple possible remedies, list them and state any preference. List any success criteria wehere appropriate.
+  validations:
+    required: true
+- type: markdown
+  attributes:
+      value: |
+        ### CHECKLIST - Before Submitting:
+        1. I have searched to see that there is not already an existing issue
+        2. I have added a "To: (Requestee)" Label
+        3. I have added a "Priority" Label (if required) 
+        4. If you represent an organization, add "Support: (Your Organization)" to the issue
