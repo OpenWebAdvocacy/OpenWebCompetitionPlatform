@@ -9,6 +9,6 @@ If no existing issue is found, then you’re free to add a new one. The issue wi
 
 Issues that do not contain sufficient detail, are out of scope or break the code of conduct will be closed.
 
-The system has labels to help with sorting, you can read about them [here].
+The system has labels to help with sorting, you can read about them [here](label-guide.md).
 
 Get started and [post an issue](https://github.com/OpenWebAdvocacy/OpenWebCompetitionPlatform/issues/new?assignees=&labels=&projects=&template=post-an-issue.md&title=) using our template. Here is an [example ticket].
