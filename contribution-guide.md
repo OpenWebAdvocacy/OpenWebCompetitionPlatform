@@ -11,4 +11,4 @@ Issues that do not contain sufficient detail, are out of scope or break the code
 
 The system has labels to help with sorting, you can read about them [here](label-guide.md).
 
-Get started and [post an issue](https://github.com/OpenWebAdvocacy/OpenWebCompetitionPlatform/issues/new?assignees=&labels=&projects=&template=post-an-issue.md&title=) using our template. Here is an [example ticket].
+Get started and [post an issue](https://github.com/OpenWebAdvocacy/OpenWebCompetitionPlatform/issues/new?assignees=&labels=&projects=&template=post-an-issue.md&title=) using our template. Here is an [example issue](https://github.com/OpenWebAdvocacy/OpenWebCompetitionPlatform/issues/1).
