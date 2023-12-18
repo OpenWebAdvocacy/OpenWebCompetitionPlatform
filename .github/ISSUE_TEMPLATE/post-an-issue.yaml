@@ -18,7 +18,7 @@ body:
 - type: textarea
   attributes:
     label: Outcome
-    description: What do you desire to see implemented to resolve your request. Where there are multiple possible remedies, list them and state any preference. List any success criteria wehere appropriate.
+    description: What do you desire to see implemented to resolve your request. Where there are multiple possible remedies, list them and state any preference. List any success criteria where appropriate.
   validations:
     required: true
 - type: markdown
@@ -27,5 +27,5 @@ body:
         ### CHECKLIST - Before Submitting:
         1. I have searched to see that there is not already an existing issue
         2. I have added a "To: (Requestee)" Label
-        3. I have added a "Priority" Label (if required) 
+        3. I have added a "Priority" Label (if required)
         4. If you represent an organization, add "Support: (Your Organization)" to the issue
