@@ -1,0 +1,16 @@
+name: Question about the Open Web Competition Platform
+description: Ask a question about the Open Web Competition Platform.
+title: "SYSTEM QUESTION: <title>"
+labels: []
+body:
+- type: textarea
+  attributes:
+    label: Question
+    description: Your question about the Open Web Competition Platform.
+  validations:
+    required: true
+- type: markdown
+  attributes:
+      value: |
+        ### CHECKLIST - Before Submitting:
+        1. I have searched to see that there is not already an existing issue
