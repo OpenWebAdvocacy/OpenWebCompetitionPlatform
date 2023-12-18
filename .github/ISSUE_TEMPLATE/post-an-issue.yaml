@@ -1,6 +1,6 @@
 name: Post an Issue
 description: Request a change to improve competition
-title: "&nbsp;"
+title: "Issue Title"
 labels: ["Status: Triage"]
 body:
 - type: textarea
