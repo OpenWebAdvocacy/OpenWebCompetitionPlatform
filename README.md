@@ -14,7 +14,7 @@ Issues should focus on:
 This platform is open to all and we welcome issues, comments and feedback that follow our code of conduct and that are within the scope of the project.
 
 ### Template
-Get started and [post an issue](https://github.com/OpenWebAdvocacy/OpenWebCompetitionPlatform/issues/new?assignees=&labels=&projects=&template=post-an-issue.yaml&title=%3Ctitle%3E) using our template. Here is an [example issue](https://github.com/OpenWebAdvocacy/OpenWebCompetitionPlatform/issues/13).
+Get started and [post an issue](https://github.com/OpenWebAdvocacy/OpenWebCompetitionPlatform/issues/new?assignees=&labels=&projects=&template=post-an-issue.yaml&title=%3Ctitle%3E) using our template. Here is an [example issue](https://github.com/OpenWebAdvocacy/OpenWebCompetitionPlatform/issues/1).
 
 You can read our contribution guide [here](contribution-guide.md).
 
