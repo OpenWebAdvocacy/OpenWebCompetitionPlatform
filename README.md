@@ -37,7 +37,7 @@ As the system is used and problems arise, we may alter aspects of templates, cod
 ### Meetings
 We believe in transparency and accountability. That's why we will conduct regular meetings (at a minimum monthly) to discuss the current key issues and to triage issues. We want everyone to see how we work and how decisions are made.
 
-You can read about meetings [here](meetings.md).
+You can read about [meetings here](meetings.md) and see the [schedule here](schedule.md).
 
 ### Contact Us
 If you have any concerns, questions or feedback please don’t hesitate to contact us either at contactus@open-web-advocacy.org or on [discord](https://discord.com/channels/945208532930822155/1186138675399098429). You can also submit issues/questions about the platform itself. Please search our existing issues and our documentation first before posting though.
