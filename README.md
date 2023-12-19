@@ -1,6 +1,8 @@
 # Open Web Competition Platform
 **Open Web Competition Platform** is a repo for documenting and tracking issues related to browser and web competition. Its aim is to facilitate coordination between browser vendors, operating systems, developers, and industry to help document outstanding competition issues with an eye towards resolving them more quickly. 
 
+Many browsers already have a long-standing tradition of engaging openly with their communities through public bug trackers. These channels have proven valuable for identifying and resolving issues, gathering user feedback, and fostering a sense of community around the development process. Extending this openness to the detailed engineering changes required to improve competition is a natural evolution of this existing practice, leveraging its benefits to further propel browser and web app competition.
+
 **Our goal** is to moderate issues transparently and fairly, we understand that opinions may differ and some issues may be contentious. Constructive contributions that conform to the code of conduct and are within scope are welcome. 
 
 ### Scope
