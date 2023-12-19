@@ -42,7 +42,7 @@ We believe in transparency and accountability. That's why we will conduct regula
 You can read about [meetings here](meetings.md) and see the [schedule here](schedule.md).
 
 ### Contact Us
-If you have any concerns, questions or feedback please don’t hesitate to contact us either at contactus@open-web-advocacy.org or on [discord](https://discord.com/channels/945208532930822155/1186138675399098429). You can also submit issues/questions about the platform itself. Please search our existing issues and our documentation first before posting though.
+If you have any concerns, questions or feedback please don’t hesitate to contact us either at contactus@open-web-advocacy.org or on [discord](https://discord.com/channels/945208532930822155/1186138675399098429). You can also [submit issues/questions](https://github.com/OpenWebAdvocacy/OpenWebCompetitionPlatform/issues/new/choose) about the platform itself. Please search our existing issues and our documentation first before posting though.
 
 ### About Us
 Open Web Advocacy is a non-profit dedicated to browser and web competition. This platform is about providing a space where all parties can be heard and engage meaningfully. We will participate in discussions to facilitate dialogue and share our viewpoints. We will always identify ourselves clearly and follow the same rules as other users. We pledge to moderate transparently and fairly.
