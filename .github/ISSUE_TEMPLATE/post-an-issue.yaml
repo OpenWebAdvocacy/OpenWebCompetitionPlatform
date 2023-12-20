@@ -28,4 +28,4 @@ body:
         1. I have searched to see that there is not already an existing issue
         2. I have added a "To: (Requestee)" Label
         3. I have added a "Priority" Label (if required)
-        4. If you represent an organization, add "Support: (Your Organization)" to the issue
+        4. If you represent an organization, and have authorization from that organization to do so, add "Support: (Your Organization)" to the issue
