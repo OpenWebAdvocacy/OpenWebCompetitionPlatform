@@ -7,13 +7,13 @@ Labels are divided into the following groups:
 - Status
   > Each issue will have a status to track its progress
   - Triage
-    > A new issue that has been added to the system, needs to be checked by moderators for [scope](scope.md), [quality](contribution-guide.md) and adherence to [code of conduct](code-of-conduct.md).
+    > A new issue that has been added to the system, needs to be checked by moderators for [scope](https://github.com/OpenWebAdvocacy/OpenWebCompetitionPlatform?tab=readme-ov-file#scope), [quality](contribution-guide.md) and adherence to [code of conduct](code-of-conduct.md).
   - Open
     > Open for discussion
   - Completed
     > Requestor has agreed to complete ticket as requirements have been met. If another supporting party disagrees they may duplicate the issue with a link to the original issue and an explanation.
   - Rejected
-    > Closed because issue is [out of scope](scope.md), violation of [code of conduct](code-of-conduct.md), [insufficient detail](contribution-guide.md) etc
+    > Closed because issue is [out of scope](https://github.com/OpenWebAdvocacy/OpenWebCompetitionPlatform?tab=readme-ov-file#scope), violation of [code of conduct](code-of-conduct.md), [insufficient detail](contribution-guide.md) etc
   - Withdrawn
     > The issue has been closed for other reasons such as the requester has upon discusion with the requestee decided that it is unnecessary. An issue being withdrawn does not prevent other parties from lodging the same issue, with a link to the original ticket.
 - To \[Organization\] Label
