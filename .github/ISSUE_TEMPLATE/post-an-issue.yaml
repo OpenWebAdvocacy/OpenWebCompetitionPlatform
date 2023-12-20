@@ -11,12 +11,6 @@ body:
     required: true
 - type: textarea
   attributes:
-    label: Scope
-    description: Please provide an explanation as to why this issue is within scope. Specifically why is this change necessary to allow the Web, Browsers or Web Apps to compete fairly and effectively.
-  validations:
-    required: true
-- type: textarea
-  attributes:
     label: Outcome
     description: What do you desire to see implemented to resolve your request. Where there are multiple possible remedies, list them and state any preference. List any success criteria where appropriate.
   validations:
@@ -25,7 +19,8 @@ body:
   attributes:
       value: |
         ### CHECKLIST - Before Submitting:
-        1. I have searched to see that there is not already an existing issue
-        2. I have added a "To: (Requestee)" label
-        3. I have added a "Priority" label (if required)
-        4. If you represent an organization, and have authorization from that organization to do so, add the label "Support: (Your Organization)" to the issue
+        1. I am confident my issue is within scope based on the [Open Web Competition Platform's scope guidelines](https://github.com/OpenWebAdvocacy/OpenWebCompetitionPlatform?tab=readme-ov-file#scope).  
+        2. I have searched to see that there is not already an existing issue
+        3. I have added a "To: (Requestee)" label
+        4. I have added a "Priority" label (if required)
+        5. If you represent an organization, and have authorization from that organization to do so, add the label "Support: (Your Organization)" to the issue
