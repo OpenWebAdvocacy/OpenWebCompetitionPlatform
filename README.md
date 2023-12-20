@@ -7,9 +7,12 @@ Many browsers already have a long-standing tradition of engaging openly with the
 
 ### Scope
 Issues should focus on:
-1. Fair and effective competition between browsers on all major operating systems
-2. Fair and effective competition between Web Apps and their native app counterparts on all major operating systems
-3. Competition issues that prevent the Web as a whole from competing on other ecosystems
+
+(1) Fair and effective competition between browsers on all major operating systems
+
+(2) Fair and effective competition between Web Apps and their native app counterparts on all major operating systems
+
+(3) Competition issues that prevent the Web as a whole from competing on other ecosystems
 
 ### Who Can Participate
 This platform is open to all and we welcome issues, comments and feedback that follow our code of conduct and that are within the scope of the project.
